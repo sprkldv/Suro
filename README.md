@@ -10,13 +10,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/code%20quality-B-yellowgreen?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/code-size/sprkldv/suro?color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/issues/sprkldv/suro?color=green&style=flat-square" />
-  <img src="https://img.shields.io/github/license/sprkldv/suro?color=orange&style=flat-square" />
-  <img src="https://img.shields.io/github/commit-activity/m/sprkldv/suro?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/code-size/sprkldv/Suro?color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/issues/sprkldv/Suro?color=green&style=flat-square" />
+  <img src="https://img.shields.io/github/license/sprkldv/Suro?color=orange&style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/m/sprkldv/Suro?style=flat-square" />
   <br>
-  <img src="https://img.shields.io/github/forks/sprkldv/suro?color=blue&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/sprkldv/suro?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/sprkldv/Suro?color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/sprkldv/Suro?style=flat-square" />
   <img src="https://img.shields.io/badge/code%20style-black-000000?style=flat-square" />
 </p>
 
