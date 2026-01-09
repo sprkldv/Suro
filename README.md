@@ -4,8 +4,6 @@
 
 <h1 align="center">Suro Userbot</h1>
 
----
-
 <p align="center">
   <b>Simple userbot with a system of modules</b>
 </p>
