@@ -27,7 +27,7 @@
 ```bash
 git clone https://github.com/sprkldv/Suro && cd Suro/ && pip install -r requirements.txt && python3 main.py
 ```
-
+**Before running, enter your api_id and api_hash in main.py**
 ---
 ## 📋 Requirements
 
